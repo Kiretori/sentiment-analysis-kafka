@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 
 # NewsAPI Configuration
-API_KEY = "4efd33861d6447c5a6f4700c6c04cfef"
+API_KEY = ""
 BASE_URL = "https://newsapi.org/v2/everything"
 
 # Search Parameters
